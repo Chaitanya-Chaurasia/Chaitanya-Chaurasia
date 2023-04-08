@@ -20,7 +20,7 @@ Feel free to look at all my work on this page.
 ![alt-text](https://img.shields.io/badge/Python-2B2728?style=for-the-badges&logo=Python)
 ![alt-text](https://img.shields.io/badge/JavaScript-C2AD6F?style=for-the-badges&logo=JavaScript)
 
-### Frontend
+### Front-end
 ![alt-text](https://img.shields.io/badge/HTML-T34F26?style=for-the-badges&logo=html5)
 ![alt-text](https://img.shields.io/badge/CSS-50AF95?style=for-the-badges&logo=CSS3)
 ![alt-text](https://img.shields.io/badge/Flask-000000?style=for-the-badges&logo=flask)
