@@ -10,3 +10,17 @@ Feel free to look at all my work on this page.
 - 🔭 I’m currently working on Sensitivity Analysis using Python
 - 🌱 I’m currently learning Swift and Android Studio
 - 📫 Reach me on my IG at @chaitanya_chaurasia
+
+
+## Skills
+
+### Programming
+![alt-text](https://img.shields.io/badge/C/C++-00599C?style=for-the-badges&logo=C++)
+![alt-text](https://img.shields.io/badge/Java-FF7800?style=for-the-badges&logo=Java)
+![alt-text](https://img.shields.io/badge/Python-2B2728?style=for-the-badges&logo=Python)
+![alt-text](https://img.shields.io/badge/JavaScript-C2AD6F?style=for-the-badges&logo=JavaScript)
+
+### Frontend
+![alt-text](https://img.shields.io/badge/HTML-T34F26?style=for-the-badges&logo=html5)
+![alt-text](https://img.shields.io/badge/CSS-50AF95?style=for-the-badges&logo=CSS3)
+![alt-text](https://img.shields.io/badge/Flask-000000?style=for-the-badges&logo=flask)
