@@ -5,7 +5,7 @@
 
 
 
-### My name is Chaitanya and I'm a sophomore at ASU!!
+### My name is Chaitanya and I'm a junior at ASU!!
 
 Feel free to look at all my work on this page. 
 
