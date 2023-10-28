@@ -29,7 +29,6 @@ Feel free to look at all my work on this page.
 ### Front-end
 ![alt-text](https://img.shields.io/badge/HTML-T34F26?style=for-the-badges&logo=html5)
 ![alt-text](https://img.shields.io/badge/CSS-50AF95?style=for-the-badges&logo=CSS3)
-![alt-text](https://img.shields.io/badge/Flask-000000?style=for-the-badges&logo=flask)
 
 ### Tools
 ![alt-text](https://img.shields.io/badge/SQL-ffffff?style=for-the-badges&logo=MYSQL)
