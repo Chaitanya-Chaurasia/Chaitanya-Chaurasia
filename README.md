@@ -9,8 +9,8 @@
 
 Feel free to look at all my work on this page. 
 
-- 🔭 I’m currently working on Sensitivity Analysis using Python
-- 🌱 I’m currently learning Swift and Android Studio
+- 🔭 I’m currently working on LaFabrica (full stack) - your everyday clothing app.
+- 🌱 I’m currently learning GraphQL and gRPCs.
 - 📫 Reach me on my IG at @chaitanya_chaurasia
 
 
