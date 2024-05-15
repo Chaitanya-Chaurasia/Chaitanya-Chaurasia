@@ -38,5 +38,5 @@ My website is live @ https://chai-t.netlify.app
 
 <hr />
 
-**Let's connect/chat:**
+**I'm always down to talk and discuss new ideas. Feel free to hmu:)**
 
