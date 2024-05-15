@@ -1,5 +1,6 @@
 <p>
-  <h3>Welcome to my Github Page. Truly, isn't this THE best place any programmer could be at? 😜</h3>
+  <h3> Hey there! I'm Chaitanya! 😇</h3>
+  <h3>Welcome to my Github Page. Let's get real, isn't this THE best place any programmer could be at? 😜</h3>
 </p>
 <hr />
 
