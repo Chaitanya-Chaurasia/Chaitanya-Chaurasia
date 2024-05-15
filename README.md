@@ -7,7 +7,7 @@
 </p>
 <hr />
 
- I'm a **Computer Science Student** at **Arizona State University**!!
+ I'm a **Computer Science Student** at **Arizona State University**!! I'm also an -**ex ML/AI Intern @IIT-Delhi**, and will be at **IDEXX** as an **Embedded Systems SWE Intern** this summer!
 
 - 💻 I specialize in **full-stack application** development- including **Web, Machine Learning** & **AI-based** Applications.
 - 🔭 Apart from CS, I love Physics- especially **Waves & Particles** and **Astrophysics**!
@@ -24,6 +24,19 @@ My website is live 👉 https://chai-t.netlify.app
  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css,react,express,nodejs,aws,git,linux,docker,figma&perline=30" />
 </p>
 <hr />
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=CHAITANYA-CHAURASIA&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=CHAITANYA-CHAURASIA&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CHAITANYA-CHAURASIA&show_icons=true" />
+</picture>
 
 
 
