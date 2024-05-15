@@ -17,7 +17,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java, c, cpp, swift, javascript, typescript, nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 
