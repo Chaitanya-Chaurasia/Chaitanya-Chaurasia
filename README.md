@@ -30,7 +30,7 @@ My website is live @ https://chai-t.netlify.app
 </h4>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CHAITANYA-CHAURASIA&show_icons=true" alt="GitHub Stats" height="200px"/>
-  <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAITANYA-CHAURASIA&hide=html,&title_color=5391FE&text_color=555&layout=donut" height="200px" width="500px" />
+  <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAITANYA-CHAURASIA&hide=html,&title_color=5391FE&text_color=555&layout=donut" height="200px" />
 </div>
 
 
