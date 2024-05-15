@@ -17,15 +17,13 @@
 My website is live 👉 https://chai-t.netlify.app
 
 <hr />
-**Skills that are indispensible for me:**
 
-<p align="center">
-  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,swift,javascript,typescript,html,css&perline=3" />
-     <img src="https://skillicons.dev/icons?i=react,express,node&perline=3" />
-     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,swift,javascript,typescript,html,css&perline=3" />
-  </a>
+**Tools and Technologies I use:**
+
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css,react,express,nodejs,aws,git,linux,docker,figma&perline=30" />
 </p>
+<hr />
 
 
 
