@@ -8,7 +8,7 @@
 ### My name is Chaitanya and I'm a Computer Science Student at Arizona State University!!
 
 - 💻 I specialize in full-stack application development- including Web, Machine Learning & AI Applications.
-- 🔭 Apart from CS, I love learning about topics in Physics- especially Wave & Particle and Astrophysics!
+- 🔭 Apart from CS, I love Physics- especially Waves & Particles and Astrophysics!
 - 🌱 I’m currently learning about Image Processing and Segmentation methods for an upcoming project (keep an eye out!).
 
 
