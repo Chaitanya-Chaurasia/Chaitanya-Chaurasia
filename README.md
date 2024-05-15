@@ -37,4 +37,7 @@ My website is live @ https://chai-t.netlify.app
 
 **Live projects I have developed:**
 
+<hr />
+
+**Let's connect/chat:**
 
