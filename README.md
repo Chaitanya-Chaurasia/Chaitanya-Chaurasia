@@ -17,22 +17,7 @@
 
 ## Skills
 
-### Programming
-![alt-text](https://img.shields.io/badge/C/C++-00599C?style=for-the-badges&logo=C++)
-![alt-text](https://img.shields.io/badge/Java-FF7800?style=for-the-badges&logo=Java)
-![alt-text](https://img.shields.io/badge/Python-2B2728?style=for-the-badges&logo=Python)
-![alt-text](https://img.shields.io/badge/JavaScript-C2AD6F?style=for-the-badges&logo=JavaScript)
-![alt-text](https://img.shields.io/badge/Swift-I8AU6F?style=for-the-badges&logo=swift)
-
-### Front-end
-![alt-text](https://img.shields.io/badge/HTML-T34F26?style=for-the-badges&logo=html5)
-![alt-text](https://img.shields.io/badge/CSS-50AF95?style=for-the-badges&logo=CSS3)
-
-### Tools
-![alt-text](https://img.shields.io/badge/SQL-ffffff?style=for-the-badges&logo=MYSQL)
-![alt-text](https://img.shields.io/badge/Firebase-FF7800?style=for-the-badges&logo=firebase)
-![alt-text](https://img.shields.io/badge/AdobeSuite-997656?style=for-the-badges&logo=ADOBE)
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 
