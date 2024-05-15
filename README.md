@@ -25,18 +25,12 @@ My website is live 👉 https://chai-t.netlify.app
 </p>
 <hr />
 
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CHAITANYA-CHAURASIA&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CHAITANYA-CHAURASIA&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=CHAITANYA-CHAURASIA&show_icons=true" />
-</picture>
-
+<h4 align="center">
+  Some GH stats 'cuz why not:
+</h4>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHAITANYA-CHAURASIA&show_icons=true" alt="GitHub Stats" height="200px"/>
+  <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAITANYA-CHAURASIA&hide=html,&title_color=5391FE&text_color=555&layout=donut" height="200px"
+</div>
 
 
