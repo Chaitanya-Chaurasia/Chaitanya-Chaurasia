@@ -7,7 +7,7 @@
 </p>
 <hr />
 
- I'm a **Computer Science Student** at **Arizona State University**!! I'm also an -**ex ML/AI Intern @IIT-Delhi**, and will be at **IDEXX** as an **Embedded Systems SWE Intern** this summer!
+ I'm a **Computer Science Student** at **Arizona State University**!! I'm also an **ex- ML/AI Intern @IIT-Delhi**, and will be at **IDEXX** as an **Embedded Systems SWE Intern** this summer!
 
 - I specialize in **full-stack application** development- including **Web, Machine Learning** & **AI-based** Applications.
 - Apart from CS, I love Physics- especially **Waves & Particles** and **Astrophysics**!
