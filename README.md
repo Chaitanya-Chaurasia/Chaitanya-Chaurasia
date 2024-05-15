@@ -9,9 +9,9 @@
 
  I'm a **Computer Science Student** at **Arizona State University**!! I'm also an -**ex ML/AI Intern @IIT-Delhi**, and will be at **IDEXX** as an **Embedded Systems SWE Intern** this summer!
 
-- 💻 I specialize in **full-stack application** development- including **Web, Machine Learning** & **AI-based** Applications.
-- 🔭 Apart from CS, I love Physics- especially **Waves & Particles** and **Astrophysics**!
-- 🌱 I’m currently learning about **Image Processing** and **Segmentation** methods for an upcoming project (keep an eye out!).
+- I specialize in **full-stack application** development- including **Web, Machine Learning** & **AI-based** Applications.
+- Apart from CS, I love Physics- especially **Waves & Particles** and **Astrophysics**!
+- I’m currently learning about **Image Processing** and **Segmentation** methods for an upcoming project (keep an eye out!).
 
 
 My website is live 👉 https://chai-t.netlify.app
