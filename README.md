@@ -4,6 +4,9 @@
   
   <h3> Hey there! I'm Chaitanya! 😇</h3>
   <h3>Welcome to my Github Page. Let's get real, isn't this THE best place any programmer could be at? 😜</h3>
+  
+  ![](https://komarev.com/ghpvc/?username=CHAITANYA-CHAURASIA&color=blue&style=for-the-badge)
+  
 </p>
 <hr />
 
@@ -32,10 +35,6 @@ My website is live @ https://chai-t.netlify.app
   <img src="https://github-readme-stats.vercel.app/api?username=CHAITANYA-CHAURASIA&show_icons=true" alt="GitHub Stats" height="200px"/>
   <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAITANYA-CHAURASIA&hide=html,&title_color=5391FE&text_color=555&layout=donut" height="200px" />
 </div>
-
-<hr />
-
-**Live projects I have developed:**
 
 <hr />
 
