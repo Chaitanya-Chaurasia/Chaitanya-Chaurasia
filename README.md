@@ -29,7 +29,7 @@ My website is live @ https://chai-t.netlify.app
 <hr />
 
 <h4 align="left">
-  Some GH stats 'cuz why not:
+  Some GH stats because why not:
 </h4>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CHAITANYA-CHAURASIA&show_icons=true" alt="GitHub Stats" height="200px"/>
