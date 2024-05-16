@@ -21,7 +21,7 @@ My website is live @ https://chai-t.netlify.app
 
 <hr />
 
-**Tools and Technologies I use:**
+**Tools and Technologies I use on the go:**
 
 <p align="left">
  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css,react,express,nodejs,aws,git,linux,docker,figma&perline=30" />
