@@ -17,7 +17,6 @@
 - I’m currently learning about **Image Processing** and **Segmentation** methods for an upcoming project (keep an eye out!).
 
 
-My website is live @ https://chai-t.netlify.app
 
 <hr />
 
