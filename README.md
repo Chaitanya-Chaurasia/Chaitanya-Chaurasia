@@ -1,36 +1,8 @@
-<p>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87!+)](https://git.io/typing-svg)
-  
-  <h3> Hey there! I'm Chaitanya! 😇</h3>
-  <h3>Welcome to my Github Page. Let's get real, isn't this THE best place any programmer could be at? 😜</h3>
-  
-  ![](https://komarev.com/ghpvc/?username=CHAITANYA-CHAURASIA&color=blue&style=for-the-badge)
-  
-</p>
-<hr />
+building in 
 
- I'm a **Computer Science Student** at **Arizona State University**!! This past summer, I was at **IDEXX** as an **Embedded Systems SWE Intern**, and also an **ex- ML/AI Intern @IIT-Delhi**! I'm currently working on shipping products for **B:Side Capital**!
-
-- I specialize in **full-stack application** development- including **Web, Machine Learning** & **AI-based** Applications.
-- Apart from CS, I love Physics- especially **Waves & Particles** and **Astrophysics**!
-- I’m currently learning about **Image Processing** and **Segmentation** methods for an upcoming project (keep an eye out!).
-
-
-
-<hr />
-
-**Tools and Technologies I use on the go:**
-
-<p align="left">
- <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css,react,express,nodejs,aws,git,linux,docker,figma&perline=30" />
-</p>
-<hr />
-
-<h4 align="left">
-  Some GH stats because why not:
-</h4>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHAITANYA-CHAURASIA&show_icons=true" alt="GitHub Stats" height="200px"/>
-  <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAITANYA-CHAURASIA&hide=html,&title_color=5391FE&text_color=555&layout=donut" height="200px" />
-</div>
+what i've worked with/on: 
+- building mesh-based wifi for ([amazon](https://eero.com/?srsltid=AfmBOorXKetLSIMUrt76wCdY6sUanFWL4lLyK9n_whEMiSInHu-HnMVc)) 
+- built agentic tools + canvas-based ux for video editing at [mosaic (yc 25)](https://mosaic.so/)
+- built AI for finance (rag, predications, plaid integrations, cloud ops) at [b:side capital](https://www.bsidecapital.org/)
+- optimizing embedded systems (apis and scheduling) for [flagship products](https://www.idexx.com/en/veterinary/analyzers/catalyst-one-chemistry-analyzer/) at [idexx](https://www.idexx.com/en/)
+- applied graph theory, neural networks to optimize power infrastructure for kenya and uk at [iit delhi](https://home.iitd.ac.in/) (in accordance with the [UN sdgs](https://sdgs.un.org/goals)). 
