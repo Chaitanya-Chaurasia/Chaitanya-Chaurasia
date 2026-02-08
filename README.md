@@ -1,4 +1,6 @@
-building in 
+i like experimenting with ai. i want to build things that last, not some new gpt wrapper to get into yc. experimenting with research-based approoach to singulate memory for ai-based agents.  
+
+i also heavily enjoy my time with frontend dev. 
 
 what i've worked with/on: 
 - building mesh-based wifi for ([amazon](https://eero.com/?srsltid=AfmBOorXKetLSIMUrt76wCdY6sUanFWL4lLyK9n_whEMiSInHu-HnMVc)) 
