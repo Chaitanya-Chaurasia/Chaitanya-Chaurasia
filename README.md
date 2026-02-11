@@ -1,4 +1,4 @@
-i like experimenting with ai. i want to build things that last, not some new gpt wrapper to get into yc. experimenting with research-based approoach to singulate memory for ai agents.  
+i like experimenting with ai. i like building things that last, (not some new gpt wrapper to get into yc 😭). experimenting with research-based approoach to singulate memory for ai agents.  
 
 i also heavily enjoy my time with frontend dev. 
 
